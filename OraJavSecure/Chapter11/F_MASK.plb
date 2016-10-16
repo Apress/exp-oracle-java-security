@@ -1,0 +1,30 @@
+CREATE OR REPLACE FUNCTION appsec.f_mask wrapped 
+a000000
+b2
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+3d9 237
+GehnTGWDxAhWnsVg2jYOTJ2/sF4wg/BeTCCsfI5Vgp0GvFbmFJFF9PpfKGM8NUbmI21KsMmT
+9YLZz1gSTsZkw/skypO3G2z+bhL/AGJObl6IY3bf/PjNwdlhZ5argmaJytVX0RDALqjMIRvj
+GLdGjZoM6cJZs4nHbLQMRgmOh9ZTnOnU0fQMG0vDHhtBL0CZSmx1R0SWpFQ20Iui96EL3CD4
+Ulczxst6rjfBUnp/48INSF46be/yl/M9rJRBGZzT7Dp3UPW+t2+O8WuopAiz0+zPije7Wdhn
+chUu85NHTUbsW/Oc3mJ/H97ACuEKyL05F284o7LH3swT1OHtcdQBL4cvoYHsnpjlLIJ43/9p
+iQ7DZWJyMz0QdssA5FV+YbsFgUgsZL8s+HJBHdwKfVZaaVgMWu3IcLRNYadcZf0y9eXwY3EH
+uDywFa0yUOp0Rx1zkYqq0JO81DyITDC4OI/q8tcFJ4inUsdLE5qGZcFv2GZ0B+8sknimq/Hj
+1atpfb/f+oVZAZkY78T0YBdSmyOSgifZtm0IiEdc5rh/Lbn5pmTzHV8=
+
+/
